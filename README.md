@@ -1,6 +1,6 @@
 # 🏫 Análisis PISA 2018
 
-Este proyecto forma parte de un ejercicio de análisis de datos basado en la base española del estudio **PISA 2018 (Programme for International Student Assessment)**.  
+Este proyecto es un análisis de datos basado en la base española del estudio **PISA 2018 (Programme for International Student Assessment)**.  
 El objetivo principal fue entender cómo influyen distintos factores socioeconómicos y del entorno educativo en los resultados educativos de los estudiantes en España del PISA 2018 utilizando únicamente Excel como herramienta de trabajo.
 
 ---
