@@ -7,14 +7,14 @@ El objetivo principal fue entender cómo influyen distintos factores socioeconó
 
 ## 📂 Estructura del proyecto
 
-El archivo principal se llama **`Proyecto eda.xlsx`** y está organizado en varias hojas, cada una con una función distinta dentro del análisis:
+El archivo principal se llama Proyecto EDA y está organizado en varias hojas, cada una con una función distinta dentro del análisis:
 
 | Hoja | Contenido |
 |------|------------|
 | **pisa_spain_sample_v2** | Datos originales descargados de la base de PISA 2018 (España). |
 | **Datos** | Base de datos limpia tras eliminar errores, vacíos y registros duplicados. |
 | **Duplis** | Control y revisión de duplicados antes del análisis. |
-| **Tablas dinámicas** | Resúmenes estadísticos y cálculos descriptivos a partir de las variables más relevantes. |
+| **Tablas dinámicas** | Tablas y cálculos descriptivos a partir de las variables más relevantes con las que trabajar para el dashboard |
 | **Dashboard** | Panel visual con los principales resultados del análisis. |
 
 ---
@@ -26,19 +26,19 @@ Solo necesitas un programa que pueda abrir archivos de Excel, como:
 
 - **Microsoft Excel** (recomendado)  
 - **Google Sheets**  
-- **LibreOffice Calc**
 
 > 💡 Basta con descargar el archivo `.xlsx` y abrirlo directamente.
 
 ---
 
-## 📊 Principales resultados
+## 📊 Principales resultados y conclusiones
 
 Durante el análisis se observaron varias tendencias interesantes en la muestra española de PISA 2018:
 
-- Los **factores socioeconómicos (ESCS)** guardan una relación positiva con el rendimiento académico y los recursos disponibles.  
-- La **motivación hacia la lectura (JOYREAD)** y el **entorno familiar y tecnológico (ICTHOME, HEDRES)** influyen notablemente en los resultados.  
-- Un **clima escolar favorable (DISCLIMA)** suele estar vinculado con un mejor desempeño y actitud hacia el estudio.  
+- Los alumnos **nacidos en España** tienen mejor rendimiento frente al resto y el género con mayor rendimiento es el **femenino**
+- Los **factores socioeconómicos** guardan una relación positiva con el rendimiento académico y los recursos disponibles.  
+- Un mayor **uso tecnológico** sorprendentemente no ayuda a mejorar el rendimiento en un mundo donde cada vez más, todo es más tecnológico.  
+- Un entorno educativo con bajo feedback, baja atención en clase y mala disciplinano no baja tanto el desempeño y y el rendimiento como se podría esperar.  
 - El **dashboard** recoge los indicadores más relevantes y permite interpretar los resultados de forma visual y rápida.
 
 En resumen, el proyecto demuestra que con herramientas accesibles como Excel se pueden aplicar técnicas básicas de **análisis exploratorio de datos (EDA)** para obtener conclusiones útiles a partir de bases reales.
@@ -49,16 +49,14 @@ En resumen, el proyecto demuestra que con herramientas accesibles como Excel se 
 
 Algunas ideas para futuras versiones del proyecto:
 
-- Incluir las variables de rendimiento directo (`PV1MATH`, `PV1READ`, `PV1SCIE`) para medir el desempeño en matemáticas, lectura y ciencias.  
-- Replicar el análisis en **Python** o **Power BI** para generar gráficos interactivos más detallados.  
+- Incluir las variables de rendimiento directo para medir el desempeño en algunas materias las cuales he tenido muchos problemas para hacerme con ellas.
+- Replicar el análisis en **Power BI** para generar gráficos interactivos más detallados.  
 - Comparar los resultados del **PISA 2018** con los de años más recientes.  
-- Añadir un análisis regional si se dispone de datos por comunidad autónoma.
+- Añadir un análisis regional si se dispone de datos por comunidad autónoma pero me ha sido imposible tener también el registro por ciudades.
 
 ---
 
 ## ✨ Autoría
 
-Proyecto realizado por *[Tu nombre]*  
-📅 **Año:** 2025  
-📘 **Materia:** Análisis y visualización de datos
+- Junior Newman  
 
