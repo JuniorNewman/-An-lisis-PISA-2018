@@ -1,2 +1,2 @@
 # -An-lisis-PISA-2018
-En este documento se verá un análisis sobre el rendimiento de los estudiantes en base a ciertos criterios socioeconómicos y del entorno educativo recogidos en el Programa para la evaluación internacional de los estudiantes de 2018.
+En este documento se verá un análisis sobre el rendimiento de los estudiantes en base a ciertos criterios socioeconómicos y del entorno educativo recogidos en el Programa para la evaluación internacional de los estudiantes de 2018. El objetivo es identificar patrones o tendencias para ver donde se puede ayudar al estudiante a subir su nivel de rendimiento y para eso, utilizaremos los datos aportados del PISA para verlo utilizando técnicas de trasnformación y limpieza de datos para verlos con más claridad.
